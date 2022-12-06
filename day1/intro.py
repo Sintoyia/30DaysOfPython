@@ -1,0 +1,7 @@
+print ("addition=", 3+4)
+print ("subtraction=", 3-4)
+print ("multiplication=", 3*4)
+print ("division=", 3/4)
+print ("modulus=", 3%4)
+print ("exponential=", 3**4)
+print ("floor division=", 3//4)
